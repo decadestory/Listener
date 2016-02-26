@@ -1,0 +1,16 @@
+D:\Projects\GitHub\Listener\Listener.DB\obj\Debug\Listener.DB.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\Listener.DB.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\Listener.DB.pdb
+D:\Projects\GitHub\Listener\Listener.DB\obj\Debug\Listener.DB.dll
+D:\Projects\GitHub\Listener\Listener.DB\obj\Debug\Listener.DB.pdb
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\Listener.Entity.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\OrmLite.Pack.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.Common.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.OrmLite.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.Text.dll
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\Listener.Entity.pdb
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\OrmLite.Pack.pdb
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.Common.xml
+D:\Projects\GitHub\Listener\Listener.DB\bin\Debug\ServiceStack.Text.xml

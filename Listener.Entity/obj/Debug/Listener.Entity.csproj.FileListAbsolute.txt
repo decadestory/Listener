@@ -1,0 +1,6 @@
+D:\Projects\GitHub\Listener\Listener.Entity\bin\Debug\Listener.Entity.dll
+D:\Projects\GitHub\Listener\Listener.Entity\bin\Debug\Listener.Entity.pdb
+D:\Projects\GitHub\Listener\Listener.Entity\obj\Debug\Listener.Entity.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\Listener\Listener.Entity\obj\Debug\Listener.Entity.dll
+D:\Projects\GitHub\Listener\Listener.Entity\obj\Debug\Listener.Entity.pdb
+D:\Projects\GitHub\Listener\Listener.Entity\bin\Debug\ServiceStack.Interfaces.dll

@@ -1,0 +1,14 @@
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\Dapper.Pack.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\Dapper.Pack.pdb
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\Listener.Entity.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.Common.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.OrmLite.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.Text.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\Listener.Entity.pdb
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.Common.xml
+D:\Projects\GitHub\Listener\Dapper.Pack\bin\Debug\ServiceStack.Text.xml
+D:\Projects\GitHub\Listener\Dapper.Pack\obj\Debug\Dapper.Pack.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\Listener\Dapper.Pack\obj\Debug\Dapper.Pack.dll
+D:\Projects\GitHub\Listener\Dapper.Pack\obj\Debug\Dapper.Pack.pdb

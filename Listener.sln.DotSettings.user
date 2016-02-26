@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="D:\Projects\GitHub\Listener\packages\Dapper.1.42\lib\net45\Dapper.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Projects\GitHub\Listener\packages\ServiceStack.OrmLite.4.0.52\lib\net45\ServiceStack.OrmLite.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Projects\GitHub\Listener\packages\ServiceStack.Text.4.0.52\lib\net40\ServiceStack.Text.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Projects\GitHub\Listener\packages\ServiceStack.Common.4.0.52\lib\net40\ServiceStack.Common.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Projects\GitHub\Listener\packages\ServiceStack.Interfaces.4.0.52\lib\portable-wp80+sl5+net40+win8+monotouch+monoandroid+xamarin.ios10\ServiceStack.Interfaces.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

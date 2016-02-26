@@ -1,0 +1,14 @@
+D:\Projects\GitHub\Listener\OrmLite.Pack\obj\Debug\OrmLite.Pack.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\OrmLite.Pack.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\OrmLite.Pack.pdb
+D:\Projects\GitHub\Listener\OrmLite.Pack\obj\Debug\OrmLite.Pack.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\obj\Debug\OrmLite.Pack.pdb
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\Listener.Entity.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.Common.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.OrmLite.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.Text.dll
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\Listener.Entity.pdb
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.Common.xml
+D:\Projects\GitHub\Listener\OrmLite.Pack\bin\Debug\ServiceStack.Text.xml
